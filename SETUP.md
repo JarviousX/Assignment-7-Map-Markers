@@ -74,13 +74,18 @@ eas build --profile development --platform android
 
 ### 6. Testing Features
 
-- ✅ Map should display with Google Maps styling
-- ✅ Two markers visible (San Francisco City Center, Golden Gate Bridge)
-- ✅ Tap markers to see alert with name
-- ✅ Tap marker callout to see "Hello" text
-- ✅ "Focus" button in header navigates to Green Bay Stadium
+- ✅ Map should display centered on University of Oklahoma campus
+- ✅ Four markers visible for Oklahoma universities:
+  - Oklahoma State University (Stillwater)
+  - University of Oklahoma (Norman)
+  - Oklahoma City University (Oklahoma City)
+  - University of Tulsa (Tulsa)
+- ✅ Tap markers to see alert with university name
+- ✅ Tap marker callout to see university name displayed
+- ✅ "Focus" button in top-left corner zooms to show all four markers
 - ✅ Location button centers map on your location
 - ✅ Dragging map logs region changes to console
+- ✅ App works in both portrait and landscape orientations
 
 ## Notes for Pixel 9 Emulator
 
