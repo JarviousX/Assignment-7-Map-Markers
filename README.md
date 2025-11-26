@@ -105,4 +105,3 @@ All code includes comprehensive comments explaining:
 - Marker setup and rendering
 - Focus button implementation
 - Handler functions and callbacks
-
